@@ -1,1 +1,3 @@
-{"editor.formatOnSave":true,"editor.formatOnPaste":true,"editor.codeActionsOnSave":{"source.fixAll.eslint":true},"prettier.configPath":"./.prettierrc.json"}
+{"editor.formatOnSave":true,"editor.formatOnPaste":true,"editor.codeActionsOnSave":{
+    "source.fixAll.eslint": "explicit"
+  },"prettier.configPath":"./.prettierrc.json"}
